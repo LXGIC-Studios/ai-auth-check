@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "bin": { "ai-auth-check": "dist/cli.js" },
   "scripts": { "build": "tsc" },
-  "keywords": ["auth","security","audit","ai","cli","authentication"],
+  "keywords": ["ai", "openai", "gpt", "authentication", "auth", "security", "audit", "oauth", "jwt", "session", "devsecops", "developer-tools", "cli", "automation", "typescript", "nodejs"],
   "license": "MIT",
   "dependencies": { "commander": "^12.1.0", "openai": "^4.73.0", "ora": "^5.4.1" },
   "devDependencies": { "typescript": "^5.6.0", "@types/node": "^22.0.0" },
