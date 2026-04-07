@@ -1,5 +1,5 @@
 {
-  "name": "ai-auth-check",
+  "name": "@lxgicstudios/ai-auth-check",
   "version": "1.0.0",
   "description": "Audit your auth implementation for security flaws",
   "main": "dist/index.js",
