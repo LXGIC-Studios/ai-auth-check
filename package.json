@@ -1,7 +1,7 @@
 {
   "name": "@lxgicstudios/ai-auth-check",
   "version": "1.0.0",
-  "description": "Audit your auth implementation for security flaws",
+  "description": "Audit your auth implementation for security flaws - AI-powered auth-check tool with 2025 SEO optimization for developers.",
   "main": "dist/index.js",
   "types": "./dist/index.d.ts",
   "bin": {
@@ -15,32 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "authentication",
-    "auth",
-    "security",
     "audit",
-    "oauth",
-    "jwt",
-    "session",
-    "devsecops",
-    "developer-tools",
-    "cli",
+    "auth",
+    "authentication",
     "automation",
-    "typescript",
-    "nodejs"
+    "claude",
+    "cli",
+    "developer-productivity",
+    "developer-tools",
+    "devsecops",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "security",
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-auth-check#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-auth-check.git"
+    "url": "https://github.com/LXGIC-Studios/ai-auth-check"
   },
   "bugs": {
     "url": "https://github.com/LXGIC-Studios/ai-auth-check/issues"
